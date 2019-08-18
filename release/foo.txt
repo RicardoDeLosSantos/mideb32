@@ -1,1 +1,0 @@
-Es un fichero creado simplemente para poder crear el directorio release
