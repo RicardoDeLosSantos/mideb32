@@ -1,0 +1,17 @@
+Date: Sun, 18 Aug 2019 17:24:19 +0000
+MD5Sum:
+ b63a9aa66c27e79d4141b9ad4f8d4027             1726 Packages.gz
+ f49a4cbf9a6554d529ba7743a21ae61d             1536 Packages.gz.OLD
+ eba83bf37f9187e38d46d953be79e410               38 Release
+SHA1:
+ e8532353790c878e4aafca0a191d9f7b3013246b             1726 Packages.gz
+ 3706bd0d3c54bbd07b133585b9b852b954f9ef02             1536 Packages.gz.OLD
+ 6aea6eaf9c5adab25c560dac342dc38992f09862               38 Release
+SHA256:
+ 41c6f83c45201da2fa28b87eba2b0ce78176c404822ddd939769483094a3e07d             1726 Packages.gz
+ 9a95d38661e647b40d765f8cbf939910286ccc37502e0c5fb3ad104b18c30552             1536 Packages.gz.OLD
+ 469bac43c6f389caee72a80ad7abc04820aff60c8704f79b37032abfab058b68               38 Release
+SHA512:
+ cab59539c45ddf2a9e105fe97a83602d6c814bd3a9d394146915ba09872e790c66b3ea9aebabf81776d6427b012ae1d0d578dc3d593ed6f85fd71aa2706528f7             1726 Packages.gz
+ 97f0a8fe6d6f1bd8e5ad7791999cc067d6adfa89c0e13e9705e92b92746e00ba23369ae46c175a411da713da13c47a2ab8fa84279d3042d87522abd8ffd4f3a9             1536 Packages.gz.OLD
+ b4e8dd0a23ddf49f49bb61694e02295891e54ad80d869f4acdacab56f9ab181606853a2e55ece924e0083577a74a52165b199cddef4da4ccf588989f639a2707               38 Release
